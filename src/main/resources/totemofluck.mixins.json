@@ -1,0 +1,13 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "totemofluck.mixin",
+  "compatibilityLevel": "JAVA_17",
+  "mixins": [],
+  "client": [
+    "client.ClientPlayNetworkHandlerMixin",
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}

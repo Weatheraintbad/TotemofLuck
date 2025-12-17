@@ -1,33 +1,35 @@
 {
-	"schemaVersion": 1,
-	"id": "totemofluck",
-	"version": "${version}",
-	"name": "Totem of Luck",
-	"description": "This is an example description! Tell everyone what your mod is about!",
-	"authors": [
-		"Weatheraintbad"
-	],
-	"contact": {
-		"homepage": "https://fabricmc.net/",
-		"sources": "https://github.com/FabricMC/fabric-example-mod"
-	},
-	"license": "CC0-1.0",
-	"icon": "assets/totemofluck/icon.png",
-	"environment": "*",
-	"entrypoints": {
-		"main": [
-			"totemofluck.TotemOfLuck"
-		]
-	},
-	"mixins": [
-	],
-	"depends": {
-		"fabricloader": ">=0.16.14",
-		"minecraft": "~1.20.1",
-		"java": ">=17",
-		"fabric-api": "*"
-	},
-	"suggests": {
-		"another-mod": "*"
-	}
+  "schemaVersion": 1,
+  "id": "totemofluck",
+  "version": "${version}",
+  "name": "Totem of Luck",
+  "description": "Adds a Lucky Totem that saves you from death with unique animations.",
+  "authors": [
+    "Weatheraintbad"
+  ],
+  "contact": {
+    "homepage": "https://github.com/Weatheraintbad/totem-of-luck",
+    "sources": "https://github.com/Weatheraintbad/totem-of-luck"
+  },
+  "license": "CC0-1.0",
+  "icon": "assets/totemofluck/icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "totemofluck.TotemOfLuck"
+    ]
+  },
+  "client": [
+    "totemofluck.client.TotemOfLuckClient"
+  ],
+  "mixins": [
+    "totemofluck.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=0.16.14",
+    "minecraft": "~1.20.1",
+    "java": ">=17",
+    "fabric-api": "*"
+  },
+  "suggests": {}
 }
