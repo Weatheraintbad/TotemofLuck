@@ -21,7 +21,7 @@ When players break blocks, kill creatures, or eat with a lucky totem, they will 
 
 <div align="center"><img width="500" height="275" alt="微信图片_20251217222141_268_58" src="https://github.com/user-attachments/assets/8d915af0-c88e-4061-92eb-a223603a6af7" /></div>
 
-### 目前已适配的版本：
+### 目前支持的版本：
 
 Fabric 1.20.1 / 1.20.2 / 1.20.3 / 1.20.4 / 1.21.1（需要 Fabric Loader 0.16.14 以及上版本，Fabric API任意版本）。
 
