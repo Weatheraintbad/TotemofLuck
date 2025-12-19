@@ -60,31 +60,9 @@ public class DeathEventHandler {
     }
 
     private static boolean isUnblockableDamage(DamageSource source) {
-        try {
-            // 对于 Minecraft 1.19+，使用 DamageTypes
-            // 检查虚空伤害
-            if (source.isOf(net.minecraft.entity.damage.DamageTypes.OUT_OF_WORLD)) {
-                return true;
-            }
-
-            // 检查/kill命令
-            if (source.isOf(net.minecraft.entity.damage.DamageTypes.GENERIC_KILL)) {
-                return true;
-            }
-
-            return false;
-
-        } catch (NoSuchFieldError | NoClassDefFoundError e) {
-            // 对于旧版本（1.18.2及更早），使用字符串比较
-            try {
-                String damageTypeName = source.getName();
-                return "out_of_world".equals(damageTypeName) ||
-                        "generic_kill".equals(damageTypeName);
-            } catch (Exception ex) {
-                // 如果连 getName() 都没有，返回 false
-                return false;
-            }
-        }
+        String name = source.getName();          // 1.19.3 唯一可用方案
+        return "out_of_world".equals(name) ||    // 虚空
+                "generic_kill".equals(name);      // /kill
     }
 
     private static void applyLuckTotemEffects(PlayerEntity player, ItemStack totem) {
