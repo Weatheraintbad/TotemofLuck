@@ -1,5 +1,6 @@
 package totemofluck.client.render;
 
+import net.fabricmc.fabric.mixin.networking.client.accessor.MinecraftClientAccessor;
 import net.minecraft.client.MinecraftClient;
 import net.minecraft.client.render.*;
 import net.minecraft.client.render.model.json.ModelTransformationMode;
@@ -33,7 +34,7 @@ public class TotemAnimationRenderer {
         matrices.push();
 
         // 调整位置和旋转
-        float animationProgress = (entity.age + MinecraftClient.getInstance().getTickDelta()) % 20 / 20.0f;
+        float animationProgress = (entity.age + MinecraftClient.getInstance().getRenderTime()) % 20 / 20.0f;
         float scale = 1.0f + animationProgress * 0.5f;
 
         matrices.translate(0, entity.getHeight() + 0.5, 0);

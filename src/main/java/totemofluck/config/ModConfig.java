@@ -2,17 +2,24 @@ package totemofluck.config;
 
 import net.minecraft.entity.effect.StatusEffect;
 import net.minecraft.entity.effect.StatusEffects;
+import net.minecraft.registry.Registries;
+import net.minecraft.registry.entry.RegistryEntry;
 
 import java.util.List;
 
 public class ModConfig {
 
     // ========== 原有配置（玩家行为触发的buff）==========
-    public static final List<StatusEffect> BUFF_POOL = List.of(
-            StatusEffects.SPEED, StatusEffects.HASTE, StatusEffects.STRENGTH,
-            StatusEffects.JUMP_BOOST, StatusEffects.REGENERATION,
-            StatusEffects.FIRE_RESISTANCE, StatusEffects.WATER_BREATHING,
-            StatusEffects.NIGHT_VISION, StatusEffects.LUCK  // 添加幸运效果
+    public static final List<RegistryEntry<StatusEffect>> BUFF_POOL = List.of(
+            StatusEffects.SPEED,
+            StatusEffects.HASTE,
+            StatusEffects.STRENGTH,
+            StatusEffects.JUMP_BOOST,
+            StatusEffects.REGENERATION,
+            StatusEffects.FIRE_RESISTANCE,
+            StatusEffects.WATER_BREATHING,
+            StatusEffects.NIGHT_VISION,
+            StatusEffects.LUCK
     );
 
     public static final int BUFF_SECONDS = 60;           // 行为buff持续时间（秒）
