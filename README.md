@@ -16,8 +16,8 @@ Totem of Luck (totemofluck:totem_of_luck) is located in the original battle inve
 <img width="500" height="227" alt="278024d1-6ebc-4a39-9973-e1af4b78f06d" src="https://github.com/user-attachments/assets/b546208a-07ef-4efc-b6a6-f74021cbe056" />
 </div>
 
-### 玩家手持幸运图腾破坏方块、击杀生物、进食时会有一定概率获得60秒的随机正向Buff（概率可在Config文件中调整），手持幸运图腾死亡后也会获得强于不死图腾的效果。
-When players break blocks, kill creatures, or eat with a lucky totem, they will have a chance to get a random positive buff for 60 seconds (the probability can be adjusted in the config file), and they will also get an effect stronger than totem of undying after dying with the lucky totem.
+### 玩家手持幸运图腾破坏方块、击杀生物、进食时会有一定概率获得60秒的随机正向Buff，手持幸运图腾死亡后也会获得强于不死图腾的效果。
+When players break blocks, kill creatures, or eat with a lucky totem, they will have a chance to get a random positive buff for 60 seconds, and they will also get an effect stronger than totem of undying after dying with the lucky totem.
 
 <div align="center"><img width="500" height="275" alt="微信图片_20251217222141_268_58" src="https://github.com/user-attachments/assets/8d915af0-c88e-4061-92eb-a223603a6af7" /></div>
 
