@@ -46,9 +46,6 @@ When players break blocks, kill creatures, or eat with a lucky totem, they will 
 
 - [NeoForge 1.21.1](https://github.com/Weatheraintbad/TotemofLuckNeoForge)
 
-[modrinth]: https://img.shields.io/badge/Modrinth-1bd96a?logo=modrinth&logoColor=ffffff
-[github]: https://img.shields.io/badge/GitHub-181717?logo=github
-
 ### 下载 Download: 
 
 [<img alt="modrinth" height="56" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/available/modrinth_vector.svg">](https://modrinth.com/mod/totem-of-luck)&nbsp;&nbsp;&nbsp;
