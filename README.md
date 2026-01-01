@@ -7,6 +7,9 @@
   [<img alt="forge" height="56" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/supported/forge_vector.svg">](https://github.com/Weatheraintbad/TotemofLuckForge)&nbsp;&nbsp;&nbsp;
   [<img alt="neoforge" height="56" src="https://cdn.jsdelivr.net/gh/Hyperbole-Devs/vectors@neoforge_badges/assets/cozy/supported/neoforge_vector.svg">](https://github.com/Weatheraintbad/TotemofLuckNeoForge)
 
+  [<img alt="modrinth" height="56" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/available/modrinth_vector.svg">](https://modrinth.com/mod/totem-of-luck)&nbsp;&nbsp;&nbsp;
+  [<img alt="modrinth" height="56" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/available/github_vector.svg">](https://github.com/Weatheraintbad/TotemofLuck/releases)
+
   ### 为我的世界添加了新的图腾：幸运图腾！
   ### Adds a new totem for Minecraft: Totem of Luck!
 </div>
@@ -46,4 +49,7 @@ When players break blocks, kill creatures, or eat with a lucky totem, they will 
 [modrinth]: https://img.shields.io/badge/Modrinth-1bd96a?logo=modrinth&logoColor=ffffff
 [github]: https://img.shields.io/badge/GitHub-181717?logo=github
 
-### 下载 Download: [ ![modrinth] ](https://modrinth.com/mod/totem-of-luck)[ ![github] ](https://github.com/Weatheraintbad/TotemofLuck/releases)
+### 下载 Download: 
+
+[<img alt="modrinth" height="56" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/available/modrinth_vector.svg">](https://modrinth.com/mod/totem-of-luck)&nbsp;&nbsp;&nbsp;
+[<img alt="modrinth" height="56" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/available/github_vector.svg">](https://github.com/Weatheraintbad/TotemofLuck/releases)
