@@ -21,22 +21,19 @@ When players break blocks, kill creatures, or eat with a lucky totem, they will 
 
 <div align="center"><img width="500" height="275" alt="微信图片_20251217222141_268_58" src="https://github.com/user-attachments/assets/8d915af0-c88e-4061-92eb-a223603a6af7" /></div>
 
-### 目前支持的版本：
+### 目前支持的版本 Currently supported versions：
 
-**Fabric 1.19.3 / 1.19.4 / 1.20.1 / 1.20.2 / 1.20.3 / 1.20.4 / 1.21.1**（需要 Fabric Loader 0.16.14 以及上版本，Fabric API任意版本）。
+- **Fabric 1.19.3 / 1.19.4 / 1.20.1 / 1.20.2 / 1.20.3 / 1.20.4 / 1.21.1**（需要 Fabric Loader 0.16.14 以及上版本，Fabric API任意版本）。<br>
+  (requires Fabric Loader 0.16.14 or higher, any version of Fabric API).
 
-(requires Fabric Loader 0.16.14 or higher, any version of Fabric API).
+- **Forge 1.20.1**（需要 Forge Loader 47 及以上版本）。<br>
+  (requires Forge Loader 47 or higher).
 
-**Forge 1.20.1**（需要 Forge Loader 47 及以上版本）。
+- **NeoForge 1.21.1** （需要NeoForge 21.1.216 及以上版本）。<br>
+  (requires NeoForge 21.1.216 or higher.)
 
-(requires Forge Loader 47 or higher).
+### Forge及Neoforge版本源码 Source code for Forge and Neoforge version：
 
-**NeoForge 1.21.1** （需要NeoForge 21.1.216 及以上版本）。
+- [Forge 1.20.1](https://github.com/Weatheraintbad/TotemofLuckForge)
 
-(requires NeoForge 21.1.216 or higher.)
-
-### 其它版本源码：
-
-[Forge 1.20.1](https://github.com/Weatheraintbad/TotemofLuckForge)
-
-[NeoForge 1.21.1](https://github.com/Weatheraintbad/TotemofLuckNeoForge)
+- [NeoForge 1.21.1](https://github.com/Weatheraintbad/TotemofLuckNeoForge)
