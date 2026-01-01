@@ -2,9 +2,10 @@
 
 <div align="center">
 <br>
-<img alt="fabric" height="56" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/supported/fabric_vector.svg">&nbsp;&nbsp;&nbsp;
-<img alt="forge" height="56" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/supported/forge_vector.svg">&nbsp;&nbsp;&nbsp;
-<img alt="neoforge" height="56" src="https://cdn.jsdelivr.net/gh/Hyperbole-Devs/vectors@neoforge_badges/assets/cozy/supported/neoforge_vector.svg">
+
+  [<img alt="fabric" height="56" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/supported/fabric_vector.svg">](https://github.com/Weatheraintbad/TotemofLuck)&nbsp;&nbsp;&nbsp;
+  [<img alt="forge" height="56" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/supported/forge_vector.svg">](https://github.com/Weatheraintbad/TotemofLuckForge)&nbsp;&nbsp;&nbsp;
+  [<img alt="neoforge" height="56" src="https://cdn.jsdelivr.net/gh/Hyperbole-Devs/vectors@neoforge_badges/assets/cozy/supported/neoforge_vector.svg">](https://github.com/Weatheraintbad/TotemofLuckNeoForge)
 
   ### 为我的世界添加了新的图腾：幸运图腾！
   ### Adds a new totem for Minecraft: Totem of Luck!
