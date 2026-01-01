@@ -46,4 +46,4 @@ When players break blocks, kill creatures, or eat with a lucky totem, they will 
 [modrinth]: https://img.shields.io/badge/Modrinth-1bd96a?logo=modrinth&logoColor=ffffff
 [github]: https://img.shields.io/badge/GitHub-181717?logo=github
 
-### 下载 Download: [ ![modrinth] ](https://modrinth.com/mod/lucky-fishing-rod)[ ![github] ](https://github.com/Weatheraintbad/TotemofLuck/releases)
+### 下载 Download: [ ![modrinth] ](https://modrinth.com/mod/totem-of-luck)[ ![github] ](https://github.com/Weatheraintbad/TotemofLuck/releases)
