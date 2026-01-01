@@ -1,6 +1,10 @@
 <img width="1185" height="281" alt="screenshot (2)" src="https://github.com/user-attachments/assets/d438188b-03fc-4000-81da-0d14bc9d35f7" />
 
 <div align="center">
+<br>
+<img alt="fabric" height="56" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/supported/fabric_vector.svg">
+<img alt="forge" height="56" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/supported/forge_vector.svg">
+<img alt="neoforge" height="56" src="https://cdn.jsdelivr.net/gh/Hyperbole-Devs/vectors@neoforge_badges/assets/cozy/supported/neoforge_vector.svg">
 
   ### 为我的世界添加了新的图腾：幸运图腾！
   ### Adds a new totem for Minecraft: Totem of Luck!
