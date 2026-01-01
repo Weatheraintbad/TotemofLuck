@@ -32,7 +32,7 @@ When players break blocks, kill creatures, or eat with a lucky totem, they will 
 - **NeoForge 1.21.1** （需要NeoForge 21.1.216 及以上版本）。<br>
   (requires NeoForge 21.1.216 or higher.)
 
-### Forge及Neoforge版本源码 Source code for Forge and Neoforge version：
+### Forge及Neoforge版本源码 Source code of Forge and Neoforge version：
 
 - [Forge 1.20.1](https://github.com/Weatheraintbad/TotemofLuckForge)
 
