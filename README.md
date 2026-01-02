@@ -8,6 +8,7 @@
   [<img alt="neoforge" height="56" src="https://cdn.jsdelivr.net/gh/Hyperbole-Devs/vectors@neoforge_badges/assets/cozy/supported/neoforge_vector.svg">](https://github.com/Weatheraintbad/TotemofLuckNeoForge)
 
   [<img alt="modrinth" height="56" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/available/modrinth_vector.svg">](https://modrinth.com/mod/totem-of-luck)&nbsp;&nbsp;&nbsp;
+  [<img alt="modrinth" height="56" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/available/curseforge_vector.svg">](https://www.curseforge.com/minecraft/mc-mods/totem-of-luck)&nbsp;&nbsp;&nbsp;
   [<img alt="modrinth" height="56" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/available/github_vector.svg">](https://github.com/Weatheraintbad/TotemofLuck/releases)
 
   ### 为我的世界添加了新的图腾：幸运图腾！
@@ -42,11 +43,12 @@ When players break blocks, kill creatures, or eat with a lucky totem, they will 
 
 ### Forge及Neoforge版本源码 Source code of Forge and Neoforge version：
 
-- [Forge 1.20.1](https://github.com/Weatheraintbad/TotemofLuckForge)
+- https://github.com/Weatheraintbad/TotemofLuckForge
 
-- [NeoForge 1.21.1](https://github.com/Weatheraintbad/TotemofLuckNeoForge)
+- https://github.com/Weatheraintbad/TotemofLuckNeoForge
 
 ### 下载 Download: 
 
 [<img alt="modrinth" height="56" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/available/modrinth_vector.svg">](https://modrinth.com/mod/totem-of-luck)&nbsp;&nbsp;&nbsp;
+[<img alt="modrinth" height="56" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/available/curseforge_vector.svg">](https://www.curseforge.com/minecraft/mc-mods/totem-of-luck)&nbsp;&nbsp;&nbsp;
 [<img alt="modrinth" height="56" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/available/github_vector.svg">](https://github.com/Weatheraintbad/TotemofLuck/releases)
